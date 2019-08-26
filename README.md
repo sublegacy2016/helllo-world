@@ -1,3 +1,3 @@
 # helllo-world
-Hi Humans
-Hibot here. I like Node.Js and Coffeescript
+
+Will try Javascript code
